@@ -1,10 +1,10 @@
 # Vul hier de naam van je programma in:
-#
+# McPizzerio
 #
 # Vul hier jullie namen in:
-#
-#
-#
+# Lukas Hamstra
+# Lukas Hamstra
+# en Lukas Hamstra
 
 
 ### --------- Bibliotheken en globale variabelen -----------------
